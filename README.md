@@ -17,12 +17,13 @@ A handmade digital photo frame built with an ESP32 and a 4.2" e-paper display. E
 
 ## Hardware
 
-| Component | Description |
-|---|---|
-| ESP32 Dev Module | 38-pin, e.g. ESP32-D0WD-V3 |
-| Waveshare Pico-ePaper-4.2 | 400×300px, black/white, SPI |
-| TP4056 Module | USB-C LiPo charger with protection |
-| LiPo Battery | 3.7V, 1700mAh, JST PH2.0 |
+| Component | Description | Link |
+|---|---|---|
+| ESP32 Dev Module | Hailege ESP32-ESP32D, 38-Pin, USB-C, WiFi + Bluetooth | [Amazon](https://www.amazon.de/dp/B0DRFSSB88) |
+| E-Paper Display | WaveShare 4.2" Pico-ePaper-4.2, 400×300px, Black/White, SPI | [Eckstein](https://eckstein-shop.de/WaveShare-42inch-E-Paper-E-Ink-Display-Module-for-Raspberry-Pi-Pico-400x300-Black-White-4-Grayscale-SPI) |
+| Micro USB Cable | Amazon Basics, for power supply | [Amazon](https://www.amazon.de/Amazon-Basics-%C3%9Cbertragungsgeschwindigkeit-vergoldeten-Steckern/dp/B071S5NTDR) |
+| Power Bank | Any USB power bank (make sure it doesn't auto-shutoff at low current) | — |
+
 
 ---
 
