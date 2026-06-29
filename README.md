@@ -96,9 +96,9 @@ The script will:
 You can tune the image quality in `epaper_converter_fixed_rotation.py`:
 
 ```python
-KONTRAST   = 1.6   # Contrast (1.0 = default)
-HELLIGKEIT = 1.1   # Brightness (1.0 = default)
-SCHAERFE   = 2.0   # Sharpness (1.0 = default)
+CONTRAST   = 1.6   # Contrast (1.0 = default)
+BRIGHTNESS = 1.1   # Brightness (1.0 = default)
+SHARPNESS   = 2.0   # Sharpness (1.0 = default)
 ```
 
 ---
@@ -111,9 +111,8 @@ epaper-photo-frame/
 ├── arduino/
 │   └── epaper_flash_direct.ino
 ├── python/
-│   └── epaper_converter_fixed_rotation.py
-└── images/
-    └── E-Paper-Picture.jpg
+    └── epaper_converter_fixed_rotation.py
+
 ```
 
 ---
