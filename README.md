@@ -2,7 +2,7 @@
 
 A handmade digital photo frame built with an ESP32 and a 4.2" e-paper display. Every time power is connected, the frame automatically advances to the next photo. The image stays visible even without power — no energy needed to hold the picture.
 
-![E-Paper Photo Frame](E-Paper-Picture.jpg)
+<img width="4284" height="5712" alt="E-Paper-Picture" src="https://github.com/user-attachments/assets/6e94049a-8710-4154-aa68-6fa10f278c42" />
 
 ---
 
